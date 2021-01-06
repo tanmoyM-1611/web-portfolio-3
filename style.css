@@ -1,0 +1,138 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+     font-size: 40px;
+}
+body{
+   margin:20px;
+}
+.color-highlight1
+{
+    color: #363958;
+    
+}
+.color-highlight2
+{
+    color :#3C1874;
+    
+   }
+   .color-highlight3
+   {
+       color: rebeccapurple;
+       text-align: center;
+   }
+p{
+    color: #5C5F58;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.button
+{
+    text-decoration:none;
+    background-image: linear-gradient( lightsalmon,tomato);
+    padding: 15px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;  
+}
+section
+{
+    height: 800px;
+    padding-bottom: 30px;
+}
+.top-part{
+    background-repeat: no-repeat;/*not Important*/
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.down-first-part
+{
+    background-color: #E5E5E5;
+    
+}
+.down1{
+    padding-top: 150px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.color-highlight4
+{
+    color: lightcoral;
+   
+}
+
+#special
+{
+    margin-left: 15%
+}
+.down-half{
+    
+width:20%;
+float: left;
+margin-right: 2%;
+
+
+padding: 1%;
+
+}
+.down-half img
+{
+    width: 100%;
+}
+.single-experience{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+    height: 45%;
+    background-color: white;
+    
+}
+
+.inqurey-area
+{
+    
+    
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+   
+    background-size: 50%;
+    background-position-x: center;
+    background-position-y: 10%;
+    
+   
+}
+
+#inqurey1{
+
+    padding-left: 30%;
+    padding-top: 100px;
+    color: white;
+    padding-right:20% ;
+   float:left;
+}
+.inqurey2
+{
+    padding-top: 10%;
+    
+}
+.footer-part{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+.fa{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+  
+}
+
+
+
+
