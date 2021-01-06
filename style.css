@@ -104,8 +104,10 @@ padding: 1%;
     background-position-x: center;
     background-position-y: 10%;
     
+    
    
 }
+
 
 #inqurey1{
 
@@ -119,6 +121,10 @@ padding: 1%;
 {
     padding-top: 10%;
     
+}
+.footer{
+     margin-top: 200px;
+
 }
 .footer-part{
     text-align: center;
@@ -134,5 +140,45 @@ padding: 1%;
 }
 
 
+.single-experience2{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+    background-color: white;
+    font-family: 'Pirata One', cursive;
+}
+#bear-advanture{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,white);
+    border-image-slice: 1;
+}
+#bear-academy{
+    border-left: 7px solid;
+    border-image: linear-gradient(green,white);
+    border-image-slice: 1;
+}
+.button2
+{
+    text-decoration:none;
+    
+    background-image: linear-gradient(blue,cyan);
+    padding: 15px 15px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700; 
+    margin-left: 220px;
+    margin-top: 100px;
+    
+    
+}
+.for-more
+{
+    text-align: center;
+    font-family: 'Hanalei Fill', cursive;
+    color:lightseagreen;
 
+}
+.last-footer{
+    text-align: center;
+}
 
